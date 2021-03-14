@@ -8,12 +8,12 @@ This project offer an analysis of the development of Minimum Viable Product(MVP)
 
 Due to the fact that the business model is first of its kind, with little or no existing data, I have used acquired taxi data for a comparable initial analysis. The dataset contains real taxi drop-offs and pick-ups in New York City.
 
-Project activities are centered around:
+Project activities centered around:
   Setting Product Objectives and Strategy
   Proposal Synthesis and Design
   The Business Case
 
-Tableau and PostgreSQL are the tools used for analyzing and calculating the average, median, and the first & second standard deviation of the mean for the following measures:
+Tableau, Jupyter Notebook and PostgreSQL are the tools used for analyzing and calculating the average, median, and the first & second standard deviation of the mean for the following measures:
 1. Duration
 2. Distance
 3. Passenger counts
