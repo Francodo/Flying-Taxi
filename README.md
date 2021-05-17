@@ -1,4 +1,4 @@
-# Flying Taxi - Data Strategy, KPI Hypothesis, Minimum Vable Product(MVP) Proposal Synthesis, Design and Lauch
+# Flying Taxi - Data Strategy, KPI Hypothesis, Minimum Viable Product(MVP) Proposal Synthesis, Design and Launch
 
 Francis Odo
 
