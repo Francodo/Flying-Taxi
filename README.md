@@ -1,4 +1,4 @@
-# Flying-Taxi
+# Flying Taxi - Data Strategy, KPI Hypothesis, Minimum Vable Product(MVP) Proposal Synthesis, Design and Lauch
 
 Francis Odo
 
@@ -7,6 +7,7 @@ This project perents an analysis of the development of a Minimum Viable Product(
 Due to the fact that the business model is first of its kind, with little or no existing data, I have used acquired taxi data for a comparable initial analysis. The dataset contains real taxi drop-offs and pick-ups in New York City.
 
 Project activities centered around:
+
   Setting Product Objectives and Strategy
   Proposal Synthesis and Design
   The Business Case
